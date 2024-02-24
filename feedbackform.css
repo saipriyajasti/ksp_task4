@@ -1,0 +1,54 @@
+body{
+  background-color: lightsalmon;
+}
+.head{
+  color:darkred;
+  font-family: Lucida Sans;
+  text-align: center;
+  font-size: 40px;
+}
+.main{
+  color: darkgreen;
+  font-family: cursive;
+  font-size: 21px;
+  margin-left: 30px;
+}
+.it{
+  color: blueviolet;
+  font-family: Times New Roman;
+  font-size: 18px;
+}
+.rad{
+  margin-left: 40px;
+}
+.rad1{
+  margin-left: 25px;
+  background-color: lightgray;
+  font-family: Times New Roman;
+  width: 100px;
+  height: 20px;
+}
+.in{
+  width: 500px;
+  height: 25px;
+  background-color: lightgray;
+  font-family: cursive;
+  font-size: 18px;
+}
+.mesg{
+  width:550px;
+  height: 200px;
+  margin-left: 40px;
+  font-family: cursive;
+  background-color:lightgray;
+}
+.sub{
+  font-family: cursive;
+  height: 50px;
+  width: 200px;
+  margin-left: 700px;
+  color: darkred;
+  background-color:red;
+  font-size: 35px;
+  
+}
